@@ -1,0 +1,46 @@
+# Ad/Tracker Blocklist
+# One domain per line. Lines starting with # are comments.
+# Format: domain.com  (subdomains are matched automatically)
+
+# Analytics
+google-analytics.com
+googletagmanager.com
+analytics.twitter.com
+hotjar.com
+mixpanel.com
+segment.com
+amplitude.com
+heap.io
+fullstory.com
+
+# Advertising networks
+doubleclick.net
+adservice.google.com
+googlesyndication.com
+ads.facebook.com
+connect.facebook.net
+advertising.amazon.com
+adsystem.amazon.com
+taboola.com
+outbrain.com
+moatads.com
+scorecardresearch.com
+quantserve.com
+rubiconproject.com
+openx.net
+pubmatic.com
+criteo.com
+adsrvr.org
+adnxs.com
+casalemedia.com
+spotxchange.com
+yieldmo.com
+
+# Trackers
+tracker.redd.it
+bat.bing.com
+pixel.facebook.com
+t.co
+ad.doubleclick.net
+mc.yandex.ru
+pagead2.googlesyndication.com

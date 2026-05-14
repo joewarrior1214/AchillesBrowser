@@ -1,0 +1,7 @@
+{
+  "do_not_track": true,
+  "block_third_party_cookies": true,
+  "clear_cookies_on_exit": false,
+  "javascript_enabled": true,
+  "webrtc_ip_leak_protection": true
+}
